@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Panda</title>
+    <link href="style.css" type="text/css" rel="stylesheet" />
+  </head>
+  <body>
+    <ul class="tab">
+      <li><a href="index.html" class="tablinks" onclick="menu">menu</a></li>
+      <li><a href="info" class="tablinks" onclick="info">info</a></li>
+      <li><a href="recepten" class="tablinks" onclick="gerechten">gerechten</a></li>
+      <li><a href="panda" class="tablinks" onclick="panda">panda</a></li>
+      <li><a href="opstand" class="tablinks" onclick="geheimen">geheimen</a></li>
+    </ul>
+    <h1>De reuzenpanda</h1>
+    <p>De panda is het nationale dier van het land van Kah-Ash.</p>
+    <p>De reuzenpanda komt vooral voor in China maar ook in het land van Kah-Ash. Ze leven vooral in de dichtbegroeide bamboe- en
+      rododendronbossen die op een heling groeien, het is er koud en vochtig.</p>
+    <p>Ze eten vooral verschilende delen van een aantal soorten bamboe, maar ze eten ook anderen planten. Omdat hij in bamboebossen woont
+      hoeft hij nooit te zoeken naar eten. Pandas eten grootendeels van de tijd, omdat ze grote hoeveelheden moeten eten.</p>
+    <iframe width="420" height="300"
+      src="https://www.youtube.com/embed/uRPqpeAvjYc" type="video/link">
+    </iframe>
+  </body>
+</html>

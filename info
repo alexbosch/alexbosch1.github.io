@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Panda</title>
+    <link href="style.css" type="text/css" rel="stylesheet" />
+  </head>
+  <body>
+    <ul class="tab">
+      <li><a href="index.html" class="tablinks" onclick="menu">menu</a></li>
+      <li><a href="info" class="tablinks" onclick="info">info</a></li>
+      <li><a href="recepten" class="tablinks" onclick="gerechten">gerechten</a></li>
+      <li><a href="panda" class="tablinks" onclick="panda">panda</a></li>
+      <li><a href="opstand" class="tablinks" onclick="geheimen">geheimen</a></li>
+    </ul>
+    <h1>info over het land van Kah-Ash.</h1>
+    <p>Het land van Kah-Ash is een dictatuur die wordt bestuurd door Koning Quaccamouse. De dictatuur werd gevestigd in 2016. De hoofdstad heet
+       Liposia. Het land van Kah-Ahs ligt ten zuiden van het Cacaogebergte en in de buurt van Pindakaasland. Het land heeft een goed
+       gemobiliseerd leger. Het leger is nodig om de aanvallen van de rolschaatsende konijnen tegen te gaan. Als je ooit KaaaH hoort moet je
+       zo snel mogelijk wegrenen want dan trekt het leger ten strijde en daar wil je niet bij zijn. Er zijn in het land ook kerkers.
+        Op elke hoek staat er een en er is er ook een onder het paleis, dit staat in het midden van het land.</p>
+    <p>In het land van Kah-Ahs hebben ze ook feestdagen. De meesten feestdagen zijn hetzelfde als die in anderen landen, maar een speciale
+      feestdag is 26 juni dit is namelijk de verjaardag van Koning Quaccamoloes</p>
+    <p>Dit zijn de belangrijkste mensen en wat ze doen:</p>
+    <ul>
+    	<li>Konig Quaccamoloes, de oprichter en leider.</li>
+    	<li>Alexoes Poptardoes, koningklijke raadgever.</li>
+    	<li>Daanoes Doosoes, de koningklijke leeuw.</li>
+    </ul>
+  </body>
+</html>

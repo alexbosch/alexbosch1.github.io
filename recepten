@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>gerechten</title>
+  <link href="style.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+  <ul class="tab">
+    <li><a href="index.html" class="tablinks" onclick="menu">menu</a></li>
+    <li><a href="info" class="tablinks" onclick="info">info</a></li>
+    <li><a href="recepten" class="tablinks" onclick="gerechten">gerechten</a></li>
+    <li><a href="panda" class="tablinks" onclick="panda">panda</a></li>
+    <li><a href="opstand" class="tablinks" onclick="geheimen">geheimen</a></li>
+  </ul>
+  <h1>Gerechten</h1>
+  <P> Zoals de meesten landen heeft het land van Kah-Ash ook een paar typische gerechten zoals:</p>
+    <ul>
+      <li>Kazige lasagne</li>
+      <li>Kazige tosti's</li>
+      <li>Spaghetti met veel kaas</li>
+      <li>kaaskomkomerbier</li>
+    </ul>
+    <p>Je ziet dat ze in het land van Kah-Ash erg van kaas houden.</p>
+    <p>Kaaskomkomerbier is special bier dat aleen gemaakt wordt in het land van Kah-Ash. Het is gebrouwen out kaas, komkomer en normaal bier.
+      Het is het favorite drankje van koning Quaccamoloes.</p>
+    <p>Hier zijn een paar recepten:</P>
+    <h2>kazige lasange</h2>
+    <p>Pasta, Hoofdgerecht, 4 personen, Voorbereidingstijd 15 minuten, Bereidingstijd 35 minuten, Italiaans</p>
+    <p>Ingredienten:<p>
+    <ul>
+      <li>250 gram champignons (1bakje)</li>
+      <li>1 stuks courgette</li>
+      <li>1 zakje kaassaus</li>
+      <li>1 kuipje kruidenkaas (garlan)</li>
+      <li>2 blikjes gepelde tomaten</li>
+      <li>1 pakje feta</li>
+      <li>1 zakje jonge of oude kaas</li>
+      <li>1 doosje lasagnabladeren</li>
+      <li>1 tl oregano</li>
+      <li>1 teentje knoflook</li>
+      <li>2 stuks uien</li>
+    </ul>
+    <p>Bereiden</p>
+    <ul>
+      <li>- snijd de champignons in plakjes of partjes, de uien in stukjes</li>
+      <li>- doe wat olijfolie of boter in een wokpan en laat dit warm worden</li>
+      <li>- bak hierin de champignons samen de ui</li>
+      <li>- voeg het teentje knoflook er aan toe als de ui en de champignons al lekker bruin zijn met behulp van een knoflookpers of snijdt
+        t zelf in kleine stukjes en laat deze even meebakken meebakken</li>
+      <li>- voeg vervolgens de blokjes gepelde tomaten toe en plet de tomaten goed</li>
+      <li>- voeg de kruidenkaas en de oregano toe en meng dit.</li>
+      <li>- voeg hier de feta in stukjes aan toe en laat het geheel staan</li>
+      <li>- verhit wat boter in een normale pan en doe hier de courgetten in blokjes gesneden bij en laat dit even doorbakken</li>
+      <li>- voeg vervolgens de kaassaus toe zoals hij volgens de verpakking bereid moet worden, aan de courgette.</li>
+      <li>- pak een ovenschaal vet deze in en maak laagjes met als laatste laagje het courgette/kaasmengsel</li>
+      <li>- kaas op de top, naar wil beetje oregano over de geraspte kaas</li>
+    </ul>
+    <h2>pasta met kaassaus</h2>
+    <p>Pasta, Hoofdgerecht, 6 personen, Voorbereidingstijd 10 minuten, Bereidingstijd 30 minuten, Italiaans</p>
+    <p>Ingredienten:</p>
+    <ul>
+      <li>1 bouillonblokje</li>
+      <li>500 g pasta</li>
+      <li>200 g creme fraiche</li>
+      <li>30 ml boter</li>
+      <li>150 g blauwe schimmelkaas</li>
+      <li>200 g geraspte kaas</li>
+      <li>1 blikje/potje doperwten (a 350 g)</li>
+      <li>1 dubbelpak blokjes ham (a 2 x 250 g)</Li>
+      <li>1 blikje/potje champignons (a 400 g)</li>
+      <li>thijm, basilicum, rozemarijn</li>
+      <li>paar druppeltjes worcestersaus</li>
+    </ul>
+    <p>Bereiden<p>
+    <ul>
+      <li>- Zet ruim water op, voeg het bouillonblokje toe en kook de pasta volgens de gebruiksaanwijzing.</li>
+      <li>- Terwijl het water aan de kook komt, smelt de boter en voeg creme fraiche toe. Snijd de blauwe schimmelkaas in stukjes en voeg toe
+        samen met de geraspte kaas. Op laag vuur verwarmen. Voeg hamblokjes toe.</li>
+      <li>- Giet het vocht van de doperwten en champignons af en voeg dit gedeeltelijk toe om de kaassaus vloeibaar te maken. Bewaar de rest
+        om eventueel zo meteen nog toe te voegen. Voeg doperwten en champignons toe.</li>
+      <li>- Verwarm dit, saus niet laten koken! Wordt de saus te dik, dan verdunnen met het bewaarde vocht. Nog een snufje thijm en basilicum
+        toevoegen, eventueel wat pittiger maken met worcestersaus, en klaar.</li>
+    </ul>
+  </body>
+</html>
